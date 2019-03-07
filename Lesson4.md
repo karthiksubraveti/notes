@@ -37,7 +37,7 @@ We're going to start out with a movie review like this one and decide whether it
 
 Until very recently, in fact, this year, neural nets didn't do a good job at all of this kind of classification problem. And that was why﹣there's not enough information available. So the trick, hopefully you can all guess, is to use transfer learning. It's always the trick. 
 
-Last year in this course I tried something crazy which was I thought what if I try transform learning to demonstrate that it can work for NLP as well. I tried it out and it worked extraordinarily well. So here we are, a year later, and transfer learning in NLP is absolutely the hit thing. And I'm going to describe to you what happens. 
+Last year in this course I tried something crazy which was I thought what if I try transer learning to demonstrate that it can work for NLP as well. I tried it out and it worked extraordinarily well. So here we are, a year later, and transfer learning in NLP is absolutely the hit thing. And I'm going to describe to you what happens. 
 
 ### Transfer learning in NLP [[6:04](https://youtu.be/C9UdVPE3ynA?t=364)]
 
